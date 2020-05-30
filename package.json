@@ -1,0 +1,22 @@
+{
+  "name": "sitiohbs",
+  "version": "1.0.0",
+  "description": "Sitio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sitio",
+    "con",
+    "HBS"
+  ],
+  "author": "Abdi Chavira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "save": "^2.4.0"
+  }
+}

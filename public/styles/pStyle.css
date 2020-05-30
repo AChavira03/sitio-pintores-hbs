@@ -1,0 +1,48 @@
+body {
+	padding-bottom: 70px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: rgb(199, 238, 184); 
+	font-size: 1em;
+	line-height: 1.5em;
+}
+h1 {
+	font-size: 10em;
+	line-height: 1.3em;
+	margin-left: 15px;
+	text-align: center;
+    font-weight: 300;
+    font-family:"sans-serif";
+}
+h2{
+	text-align:"center";
+	margin-left: 35px;
+}
+h3{
+	vertical-align: middle;
+	text-align: center;
+	padding: 20%;
+}
+h5{
+	text-align: center;
+	color: white;
+}
+p{
+	text-align: center;
+	font-size: large;
+}
+img{
+	max-width: 90%;
+	height: auto;
+	vertical-align: top;
+}
+td{
+	vertical-align: top;
+}
+li{
+	color: rgb(2, 2, 107);
+	font-size: 19px;
+}
+table{
+	width: 100%;
+}
